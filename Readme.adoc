@@ -1,0 +1,242 @@
+== Что это
+Обучение по курсу https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/[Udemy Build Web Apps with Vue JS 3 & Firebase] (https://rutracker.org/forum/viewtopic.php?t=6048420)
+
+https://github.com/iamshaunjp/Vue-3-Firebase[Исходники]
+
+
+=== lesson017 
+computed properties
+
+=== lesson021
+vue cli
+
+* Установить https://nodejs.org/en/[nodejs]
+* Установить https://yarnpkg.com/[yarn]:
+[source]
+----
+npm i -g corepack
+или
+corepack enable # (для node >= 16)
+----
+
+* Установить vue cli
+[source]
+yarn global add @vue/cli
+
+* создать проект с ручным выбором опций:
+[source]
+vue create lesson021
+
+** [x] choose vue version
+** [x] Babel
+
+* Vue version: 3.x
+* [x] Eslint + prettier
+* [x] Lint on save
+* Where do you prefer placing config for Babel, ESLint, etc.? *In dedicated config files*
+* [x] Use Yarn
+
+[source]
+----
+cd lesson021
+yarn serve
+----
+
+=== lesson022
+
+Template refs
+
+=== lesson023
+
+First reusable component (Modal)
+
+=== lesson024
+
+Scoping css styles and using global css rules
+
+=== lesson025
+
+Props
+
+=== lesson026
+
+Custom events from child components
+
+=== lesson027
+
+https://v3.vuejs.org/guide/events.html#Event-Modifiers[event modifiers]
+
+=== lesson028
+
+https://v3.vuejs.org/guide/component-slots.html[Slots]
+
+=== lesson029
+
+Challenge
+
+=== lesson030
+
+teleport component
+
+=== lesson031
+
+Ninja reaction timer
+
+=== lesson033
+
+https://v3.vuejs.org/guide/instance.html#lifecycle-hooks[Lifecycle hooks]
+
+=== lesson036
+
+challenge
+
+=== lesson038
+
+Forms
+
+=== lesson039
+
+v-model
+
+=== lesson043
+
+Challenge
+
+=== lesson044
+
+Submit event for form
+
+== lesson046
+vue router.
+
+== lesson047
+router-link styling
+
+databind router-link target
+
+== lesson048
+Organizing component files
+
+== lesson049
+Route parameters
+
+== lesson050
+Passing params to routes. Dynamic links. Access route params as props.
+
+== lesson051
+Redirects & 404 error
+
+== lesson052
+Control routes history programmatically. Go forward, back. Redirect.
+
+== lesson053
+Lazy loading components (briefly). see more (here)[https://next.router.vuejs.org/guide/advanced/lazy-loading.html#grouping-components-in-the-same-chunk]
+
+== lesson054
+json-server: install and run
+
+  yarn global add json-server
+  json-server --watch data/db.json
+
+== lesson055
+Using fetch() to load data.
+
+== lesson057
+Create project project-planner. Load data. Extract sub-component.
+
+
+== lesson060
+Add icons <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+== lesson061
+Delete project using API
+
+== lesson062
+Complete project using API
+
+== lesson063
+New project form
+
+== lesson064
+Add new project using API
+
+== lesson065
+Add navigation
+
+== lesson066,67
+Add "edit project" form and update project using API
+
+== lesson068 & 69
+Projects filter & challenge
+
+== lesson071
+Create Dojo-blog app
+
+Setup function
+
+== lesson072
+template refs, and using them for reactivity
+
+== lesson074
+Using *reactive* function to create reactive properties
+
+== lesson075
+computed values in *setup* function
+
+== lesson076
+Using watch and watchEffect functions
+
+== lesson077
+Properties in *setup* function
+
+== lesson078
+Lifecycle hooks in *setup* function
+
+== lesson079
+async fetch data in *setup* function
+
+== lesson080
+Reusing composition functions (composables)
+
+== lesson082
+Creating "loading" spinner
+
+== lesson083
+Web form + send post to backend (challenge)
+
+== lesson086
+Navbar for posts
+
+== lesson087
+use router in *setup* function
+
+== lesson088
+use route in *setup* function
+
+== lesson090
+Tag cloud
+
+== lesson092
+Install *firebase* package
+
+== lesson094
+Retrieve collection of documents from firestore
+
+== lesson095
+Retrieve single document from firestore
+
+== lesson096
+creating document in firestore
+
+== lesson097
+deleting document in firestore
+
+== lesson098
+Using timestamps
+
+== lesson099
+Ordering collections
+
+== lesson100
+Realtime data (only very basic)
+
