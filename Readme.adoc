@@ -249,3 +249,5 @@ attach firebase
 == lesson 103
 create signup form
 
+== lesson 104
+switching between Login and Signup forms.
