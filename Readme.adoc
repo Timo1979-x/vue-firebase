@@ -269,3 +269,6 @@ Setup Context & Emitting Events.mp4
 
 == lesson 110
 Create navbar
+
+== lesson 111
+Implement logout

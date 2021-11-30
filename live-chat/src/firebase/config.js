@@ -17,6 +17,7 @@ import {
   getAuth,
   createUserWithEmailAndPassword as createEmailUser,
   signInWithEmailAndPassword as signInWithEmail,
+  signOut as so,
 } from "firebase/auth";
 
 // Follow this pattern to import other Firebase services
@@ -97,6 +98,10 @@ async function deleteDocument(collectionName, id) {
   return deleteDoc(doc(db, collectionName, id));
 }
 
+const signOut = async () => {
+  return so(auth);
+};
+
 const timestamp = serverTimestamp;
 
 export {
@@ -114,4 +119,5 @@ export {
   auth,
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
+  signOut,
 };
