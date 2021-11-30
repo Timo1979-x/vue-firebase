@@ -13,15 +13,20 @@ import {
   orderBy,
   onSnapshot,
 } from "firebase/firestore";
-import "firebase/auth";
+import {
+  getAuth,
+  createUserWithEmailAndPassword as createEmailUser,
+} from "firebase/auth";
 
 // Follow this pattern to import other Firebase services
 // import { } from 'firebase/<service>';
 
 const app = initializeApp(firebaseCredentials);
 const db = getFirestore(app);
-const auth = app.auth();
-console.log(auth);
+const auth = getAuth(app);
+const createUserWithEmailAndPassword = async (email, password) => {
+  return await createEmailUser(auth, email, password);
+};
 
 function setSnapshotListener(
   collectionName,
@@ -88,7 +93,6 @@ async function deleteDocument(collectionName, id) {
 }
 
 const timestamp = serverTimestamp;
-// console.log(timestamp);
 
 export {
   db,
@@ -102,5 +106,6 @@ export {
   timestamp,
   orderedCollection,
   setSnapshotListener,
-  auth
+  auth,
+  createUserWithEmailAndPassword,
 };

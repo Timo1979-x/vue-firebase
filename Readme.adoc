@@ -254,3 +254,6 @@ switching between Login and Signup forms.
 
 == lesson 105
 Firebase Authentication
+
+== lesson 105
+Using firebase authentication

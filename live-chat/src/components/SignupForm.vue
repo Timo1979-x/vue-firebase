@@ -13,15 +13,21 @@
 </template>
 
 <script>
+/* eslint-disable */
 import { ref } from "@vue/reactivity";
+import useSignup from "../composables/useSignup";
+
 export default {
   setup() {
+    const { error, signup } = useSignup();
+
     // refs
-    const displayName = ref("");
-    const email = ref("");
-    const password = ref("");
-    const submit = () => {
-      console.log(displayName.value, email.value, password.value);
+    const displayName = ref("Tim");
+    const email = ref("ltv@gto.by");
+    const password = ref("123456");
+    const submit = async () => {
+      signup(email.value, password.value, displayName.value);
+      console.log("User signed up");
     };
     return { displayName, email, password, submit };
   },
