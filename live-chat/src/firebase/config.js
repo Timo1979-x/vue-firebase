@@ -13,11 +13,15 @@ import {
   orderBy,
   onSnapshot,
 } from "firebase/firestore";
+import "firebase/auth";
+
 // Follow this pattern to import other Firebase services
 // import { } from 'firebase/<service>';
 
 const app = initializeApp(firebaseCredentials);
 const db = getFirestore(app);
+const auth = app.auth();
+console.log(auth);
 
 function setSnapshotListener(
   collectionName,
@@ -98,4 +102,5 @@ export {
   timestamp,
   orderedCollection,
   setSnapshotListener,
+  auth
 };

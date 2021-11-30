@@ -251,3 +251,6 @@ create signup form
 
 == lesson 104
 switching between Login and Signup forms.
+
+== lesson 105
+Firebase Authentication
