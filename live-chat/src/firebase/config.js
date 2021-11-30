@@ -16,6 +16,7 @@ import {
 import {
   getAuth,
   createUserWithEmailAndPassword as createEmailUser,
+  signInWithEmailAndPassword as signInWithEmail,
 } from "firebase/auth";
 
 // Follow this pattern to import other Firebase services
@@ -25,7 +26,11 @@ const app = initializeApp(firebaseCredentials);
 const db = getFirestore(app);
 const auth = getAuth(app);
 const createUserWithEmailAndPassword = async (email, password) => {
-  return await createEmailUser(auth, email, password);
+  return createEmailUser(auth, email, password);
+};
+
+const signInWithEmailAndPassword = async (email, password) => {
+  return signInWithEmail(auth, email, password);
 };
 
 function setSnapshotListener(
@@ -108,4 +113,5 @@ export {
   setSnapshotListener,
   auth,
   createUserWithEmailAndPassword,
+  signInWithEmailAndPassword,
 };
