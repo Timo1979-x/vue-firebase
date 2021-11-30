@@ -8,12 +8,12 @@
     />
     <input type="email" required placeholder="email" v-model="email" />
     <input type="password" required placeholder="password" v-model="password" />
+    <div class="error">{{ error }}</div>
     <button>Sign up</button>
   </form>
 </template>
 
 <script>
-/* eslint-disable */
 import { ref } from "@vue/reactivity";
 import useSignup from "../composables/useSignup";
 
@@ -29,9 +29,7 @@ export default {
       signup(email.value, password.value, displayName.value);
       console.log("User signed up");
     };
-    return { displayName, email, password, submit };
+    return { displayName, email, password, submit, error };
   },
 };
 </script>
-
-<style></style>
