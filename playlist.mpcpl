@@ -1,55 +1,49 @@
 ﻿MPCPLAYLIST
 1,type,0
-1,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\107 Outputting Errors.mp4
-1,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\107 Outputting Errors.en_US.srt
+1,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\109 Setup Context & Emitting Events.mp4
+1,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\109 Setup Context & Emitting Events.en_US.srt
 2,type,0
-2,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\108 Creating a Login Composable.mp4
-2,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\108 Creating a Login Composable.en_US.srt
+2,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\110 Navbar Component.mp4
+2,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\110 Navbar Component.en_US.srt
 3,type,0
-3,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\109 Setup Context & Emitting Events.mp4
-3,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\109 Setup Context & Emitting Events.en_US.srt
+3,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\111 Logging Users Out (Composable).mp4
+3,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\111 Logging Users Out (Composable).en_US.srt
 4,type,0
-4,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\110 Navbar Component.mp4
-4,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\110 Navbar Component.en_US.srt
+4,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\112 Getting the Current User (Composable).mp4
+4,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\112 Getting the Current User (Composable).en_US.srt
 5,type,0
-5,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\111 Logging Users Out (Composable).mp4
-5,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\111 Logging Users Out (Composable).en_US.srt
+5,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\113 Route Guards (for Unauth Users).mp4
+5,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\113 Route Guards (for Unauth Users).en_US.srt
 6,type,0
-6,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\112 Getting the Current User (Composable).mp4
-6,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\112 Getting the Current User (Composable).en_US.srt
+6,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\114 Waiting for Firebase Auth to Initialize.mp4
+6,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\114 Waiting for Firebase Auth to Initialize.en_US.srt
 7,type,0
-7,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\113 Route Guards (for Unauth Users).mp4
-7,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\113 Route Guards (for Unauth Users).en_US.srt
+7,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\115 CHALLENGE - Watching the Current User.mp4
+7,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\115 CHALLENGE - Watching the Current User.en_US.srt
 8,type,0
-8,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\114 Waiting for Firebase Auth to Initialize.mp4
-8,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\114 Waiting for Firebase Auth to Initialize.en_US.srt
+8,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\116 New Chat Form.mp4
+8,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\116 New Chat Form.en_US.srt
 9,type,0
-9,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\115 CHALLENGE - Watching the Current User.mp4
-9,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\115 CHALLENGE - Watching the Current User.en_US.srt
+9,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\117 Adding New Messages to Firestore.mp4
+9,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\117 Adding New Messages to Firestore.en_US.srt
 10,type,0
-10,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\116 New Chat Form.mp4
-10,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\116 New Chat Form.en_US.srt
+10,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\118 Real-Time Firestore Listener (Composable).mp4
+10,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\118 Real-Time Firestore Listener (Composable).en_US.srt
 11,type,0
-11,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\117 Adding New Messages to Firestore.mp4
-11,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\117 Adding New Messages to Firestore.en_US.srt
+11,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\119 Creating the Chat Window.mp4
+11,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\119 Creating the Chat Window.en_US.srt
 12,type,0
-12,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\118 Real-Time Firestore Listener (Composable).mp4
-12,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\118 Real-Time Firestore Listener (Composable).en_US.srt
+12,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\120 Formatting Dates (date-fns).mp4
+12,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\120 Formatting Dates (date-fns).en_US.srt
 13,type,0
-13,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\119 Creating the Chat Window.mp4
-13,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\119 Creating the Chat Window.en_US.srt
+13,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\121 CHALLENGE - Auto-Scrolling the Chat Window.mp4
+13,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\121 CHALLENGE - Auto-Scrolling the Chat Window.en_US.srt
 14,type,0
-14,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\120 Formatting Dates (date-fns).mp4
-14,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\120 Formatting Dates (date-fns).en_US.srt
+14,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\122 Unsubscribing From Real-Time Listeners.mp4
+14,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\122 Unsubscribing From Real-Time Listeners.en_US.srt
 15,type,0
-15,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\121 CHALLENGE - Auto-Scrolling the Chat Window.mp4
-15,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\121 CHALLENGE - Auto-Scrolling the Chat Window.en_US.srt
+15,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\123 Final Route Guard.mp4
+15,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\123 Final Route Guard.en_US.srt
 16,type,0
-16,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\122 Unsubscribing From Real-Time Listeners.mp4
-16,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\122 Unsubscribing From Real-Time Listeners.en_US.srt
-17,type,0
-17,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\123 Final Route Guard.mp4
-17,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\123 Final Route Guard.en_US.srt
-18,type,0
-18,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\124 Testing & Next Steps.mp4
-18,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\124 Testing & Next Steps.en_US.srt
+16,filename,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\124 Testing & Next Steps.mp4
+16,subtitle,E:\learnvideo\_js_vue\Build Web Apps with Vue JS 3 & Firebase (Udemy)\13 PROJECT BUILD - Live Chat Room with Authentication\124 Testing & Next Steps.en_US.srt

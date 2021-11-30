@@ -11,7 +11,7 @@
 import { ref } from "@vue/reactivity";
 import useLogin from "../composables/useLogin";
 export default {
-  setup() {
+  setup(props, context) {
     // refs
     const email = ref("ltv@gto.by");
     const password = ref("123456");
@@ -19,9 +19,9 @@ export default {
     const { error, login } = useLogin();
 
     const handleSubmit = async () => {
-      let resp = await login(email.value, password.value);
+      await login(email.value, password.value);
       if (!error.value) {
-        console.log("User logged in");
+        context.emit("login");
       }
     };
     return { email, password, handleSubmit, error };
