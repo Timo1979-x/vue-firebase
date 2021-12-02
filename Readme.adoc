@@ -272,3 +272,6 @@ Create navbar
 
 == lesson 111
 Implement logout
+
+== lesson 112
+Getting the Current User (Composable)

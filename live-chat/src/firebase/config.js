@@ -18,6 +18,7 @@ import {
   createUserWithEmailAndPassword as createEmailUser,
   signInWithEmailAndPassword as signInWithEmail,
   signOut as so,
+  onAuthStateChanged as oasc,
 } from "firebase/auth";
 
 // Follow this pattern to import other Firebase services
@@ -102,6 +103,10 @@ const signOut = async () => {
   return so(auth);
 };
 
+const onAuthStateChanged = (cb) => {
+  return oasc(auth, cb);
+};
+
 const timestamp = serverTimestamp;
 
 export {
@@ -120,4 +125,5 @@ export {
   createUserWithEmailAndPassword,
   signInWithEmailAndPassword,
   signOut,
+  onAuthStateChanged,
 };
