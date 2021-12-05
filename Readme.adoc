@@ -281,3 +281,7 @@ Getting the Current User (Composable)
 
 == lesson 114
 Ожидаем, пока Firebase загрузится
+
+== lesson 115
+Задание. Переход на заглавную после logout
+
