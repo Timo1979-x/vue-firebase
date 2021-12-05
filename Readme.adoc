@@ -278,3 +278,6 @@ Getting the Current User (Composable)
 
 == lesson 113
 Запрещаем неавторизованному пользователю попадать на адрес /chatroom
+
+== lesson 114
+Ожидаем, пока Firebase загрузится
