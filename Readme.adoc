@@ -286,3 +286,7 @@ Getting the Current User (Composable)
 Задание. Переход на заглавную после logout
 
 == lesson 116
+Форма нового сообщения
+
+== lesson 117
+Отправка сообщения

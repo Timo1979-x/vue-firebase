@@ -12,6 +12,7 @@ import {
   query,
   orderBy,
   onSnapshot,
+  addDoc,
 } from "firebase/firestore";
 import {
   getAuth,
