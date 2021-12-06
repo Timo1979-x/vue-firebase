@@ -2,8 +2,8 @@
   <div class="chat-window">
     <div v-if="error">{{ error }}</div>
     <div v-if="documents" class="messages">
-      <div v-for="doc in documents" :key="doc.id" class="single">
-        <span class="created-at">{{ doc.createdAt.toDate() }}</span>
+      <div v-for="doc in formattedDocuments" :key="doc.id" class="single">
+        <span class="created-at">{{ doc.createdAt }}</span>
         <span class="name">{{ doc.name }}</span>
         <span class="message">{{ doc.message }}</span>
       </div>
@@ -13,11 +13,22 @@
 
 <script>
 import getCollection from "../composables/getCollection";
+import { formatDistanceToNow } from "date-fns";
+import { computed } from "@vue/reactivity";
 export default {
   setup() {
     const { documents, error } = getCollection("messages");
-
-    return { documents, error };
+    const formattedDocuments = computed(() => {
+      if (!documents.value) {
+        return null;
+      }
+      return documents.value.map((doc) => {
+        console.log(doc.createdAt.toDate());
+        let ft = formatDistanceToNow(doc.createdAt.toDate());
+        return { ...doc, createdAt: ft };
+      });
+    });
+    return { formattedDocuments, error, documents };
   },
 };
 </script>
