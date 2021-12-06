@@ -297,3 +297,6 @@ real-time listener on new messages
 == lesson120
 Formatting dates (yarn add date-fns)
 
+== lesson121
+challenge: Auto-scrolling chat messages window to the last message after
+

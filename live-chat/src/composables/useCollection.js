@@ -7,7 +7,6 @@ const useCollection = (collectionName) => {
     error.value = null;
     try {
       await addDocument(collectionName, doc);
-      console.log("Added document ", doc);
     } catch (error) {
       console.error(error.message);
       error.value = `could not send the message: ${error.message}`;
